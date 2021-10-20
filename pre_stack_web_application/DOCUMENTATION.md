@@ -2,10 +2,24 @@ DOCUMENTATION for <project-name>
 
 # Table of Contents
 
+1. Timeline
 1. Technology Stack & Justifications
 2. Structure
 3. File by file description
 4. HowTos 
+
+# Timeline
+
+Releases  
+> v0.0 **Title of release**  
+> Release Notes:
+> - blah blah Fixed a main thing
+> - blah blah Here's a feature
+
+> v0.1 **Title of release**  
+> Release Notes:
+> - blah blah Fixed a main thing
+> - blah blah Here's a feature
 
 # Technology Stack & Justification
 

@@ -14,4 +14,4 @@ Whats next? Find out in here...
 `./TODO`
 
 # COPYRIGHT
- `Copyright 2021, Edward Oakley, All rights reserved.`
+ `Copyright 2021, first last, All rights reserved.`

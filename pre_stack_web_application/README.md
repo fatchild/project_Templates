@@ -1,7 +1,5 @@
-# hangTrack
- A simple hangboard tracking app  
-
- The philosophy is to create simplicity by absorbing complexity
+# Project name
+Description of project.
 
 # Documentation
 

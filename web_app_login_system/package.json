@@ -1,0 +1,42 @@
+{
+  "name": "hangtrack",
+  "version": "1.0.0",
+  "description": "A simple hangboard tracking app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/index.js",
+    "start-dev": "nodemon server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatchild/hangTrack.git"
+  },
+  "keywords": [
+    "hangboarding",
+    "climbing",
+    "training"
+  ],
+  "author": "Edward Oakley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fatchild/hangTrack/issues"
+  },
+  "homepage": "https://github.com/fatchild/hangTrack#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "crypto": "^1.0.1",
+    "csurf": "^1.11.0",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "mysql2": "^2.3.2"
+  },
+  "engines": {
+    "node": "14.17.2"
+  },
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "nodemon": "^2.0.14"
+  }
+}
